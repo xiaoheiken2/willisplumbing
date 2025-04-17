@@ -1,0 +1,18 @@
+    <br><br><br><br>
+    <!-- template 6 just 1 subtopic and image -->
+    <div class="containeralooma">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-m-8 col-l-8">
+                <h2 class="template4 h2alooma">aloomaidheader</h2>
+                <p class="template4 palooma">aloomaidparagraph</p>
+                aloomalistdata
+            <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+        </div>
+        <div class="col-m-4 col-l-4">
+        <img style="width: 100%" class="aloomacssidimage" src="aloomaidpickimage" alt="aloomaidalttitle">
+        <br>
+        </div>
+    </div>
+        </section>
+    </div>

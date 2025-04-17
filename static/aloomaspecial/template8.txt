@@ -1,0 +1,14 @@
+    <br><br><br><br>
+    <!-- contact template 8 just 1 subtopic -->
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma">aloomaidheader</h2>
+                <p class="template4 palooma">aloomaidparagraph
+                </p>
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>

@@ -1,0 +1,26 @@
+    <br><br><br><br>
+    <!-- template 7 -- two subtopic with a list and image-->
+    <div class="containeralooma">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-m-6 col-l-6">
+                <h2 class="template4 h2alooma">aloomaidheader</h2>
+                <p class="template4 palooma">aloomaidparagraph
+                </p>
+                aloomalistdata
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+                <br><br>
+                <img class="aloomacssidimage" src="aloomaidpickimage" alt="aloomaidalttitle">
+            </div>
+            <div class="col-m-6 col-l-6">
+                <img class="aloomacssidimage" src="aloomaidpickimage" alt="aloomaidalttitle">
+                <br><br>
+                <h2 class="template4 h2alooma">aloomaidheader</h2>
+                <p class="template4 palooma">aloomaidparagraph</p>
+                aloomalistdata
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    

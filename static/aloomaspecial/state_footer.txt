@@ -1,0 +1,19 @@
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Counties In #State</h2>
+        <div class="row">
+            aloomaidstatecounty
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities In #State</h2>
+        <div class="row">
+            aloomaidstatecity
+        </div>
+        </section>
+    </div>

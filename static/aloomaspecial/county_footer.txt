@@ -1,0 +1,13 @@
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 95%;">
+        <section class="boxalooma" style="text-align: center; width: 100%;">
+        <div class="row">
+            
+            <div class="col-12" style="border: 2px solid black; text-align:center; background-color: white;">
+                <h3><strong>Cities and Zip Codes in #State</strong></h3>
+                <p>aloomaidcountycontents</p>
+            </div>
+        </div>
+        aloomaidcountytable
+        </section>
+    </div>

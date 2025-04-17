@@ -1,0 +1,21 @@
+    <br><br><br><br>
+    <!-- template 2 -->
+    <div class="containeralooma" id="ourservices">
+        <section class="boxalooma">
+        <div class="row">
+            <h1 class="h1alooma template2 mx-auto">aloomaidheader </h1>
+            <p class="template2 palooma">aloomaidparagraph
+            </p>
+            <div class="col-m-8 col-l-8">
+                aloomalistdata
+                
+                <div class="callalooma"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+                
+            </div>
+            <div class="col-m-4 col-l-4">
+                aloomashortform
+            </div>
+            
+        </div>
+        </section>  
+    </div>

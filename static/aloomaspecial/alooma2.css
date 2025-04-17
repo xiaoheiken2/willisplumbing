@@ -1,0 +1,5 @@
+﻿body {
+    background: url('../images/jack-price-burns-YVNlVJ8F_Ok-unsplash.jpg') no-repeat center top; /* Replace 'background-image.jpg' with your image file path */
+    background-color: #243644;
+    background-size: 100% 650px; /* Adjust height to the desired value */
+}
