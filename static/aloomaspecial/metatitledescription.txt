@@ -1,0 +1,11 @@
+    <title>aloomaidtitle</title>
+        <meta name="title" content="aloomaidtitle" />
+        <meta name="robots" content="NOODP, NOYDIR, index, follow" />
+        <link rel="canonical" href="aloomaiddomainname" />
+        <meta name="description" content="aloomaiddescription" />
+        <meta property="og:title" content="aloomaidtitle" />
+        <meta property="og:description" content="aloomaiddescription" />
+        <meta property="og:type" content="article" />
+        <meta property="og:site_name" content="aloomaidsitename" />
+        
+        <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Inter:wght@700;800&display=swap" rel="stylesheet">

@@ -1,0 +1,18 @@
+    <!-- template 1 just one subtopic -->
+    <br><br>
+    <div class="containeralooma">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-m-6 col-l-6">
+                <h2 class="template1 h2alooma">aloomaidheader</h2>
+                <p class="template1 palooma">aloomaidparagraph</p>
+                aloomalistdata
+                <div class="callalooma"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+            <div class="col-m-6 col-l-6">
+                aloomalongform
+            </div>
+
+        </div>
+        </section>
+    </div>

@@ -1,0 +1,11 @@
+    <br><br><br><br>
+    <!-- Reviews  -->
+    
+    <div class="containeralooma" id="review">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Customer Reviews</h2>
+        <div class="row">
+            aloomaidallcomments
+        </div>
+        </section>
+    </div>

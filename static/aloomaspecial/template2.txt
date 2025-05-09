@@ -1,0 +1,19 @@
+    <br><br><br><br>
+    <!-- template 2 -- single subtopic with a list-->
+    <div class="containeralooma" id="ourservices">
+        <section class="boxalooma">
+        <div class="row">
+            <h2 class="template2 mx-auto">aloomaidheader </h2>
+            <p class="template2 palooma mx-auto">aloomaidparagraph
+            </p>
+            <div class="col-m-8 col-l-8">
+                aloomalistdata
+                <div class="callalooma"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+            <div class="col-m-4 col-l-4">
+                    aloomashortform
+                </div>
+            
+        </div>
+        </section>  
+    </div>
